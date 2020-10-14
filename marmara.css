@@ -1,0 +1,169 @@
+.main-contener
+{
+    display: flex;
+    flex-direction: column;
+    border: 0.1em grey solid;
+    width: 26.95%;
+    height: 100vh;
+}
+
+.hotelName
+{
+    display: flex;
+    flex-direction: row;
+    width: 100%;
+}
+
+.name
+{
+    margin-left: 2.5%;
+    margin-top: 1%;
+}
+
+.photo
+{
+    text-align: center;
+}
+
+h1
+{
+    font-size: 0.9em;
+    color: #092A5E;
+    font-family: Verdana;
+}
+
+.small
+{
+    height: 24%;
+    width: 14%;
+}
+
+.club
+{
+    margin-top: 2.5%;
+    height: 14%;
+    width: 14%;
+
+}
+
+.location
+{
+    color: #AC9290;
+    font-family: Colibri;
+    font-size: 1.1em;
+}
+
+.evaluation
+{
+    color: #90D7F6;
+    font-size: 1.2em;
+}
+
+.seven
+{
+    font-weight: bold;
+    font-size: 1.3em;
+}
+
+.avis
+{
+    color: #87718D;
+    font-size: 1.2em;
+}
+
+.rating
+{
+    margin-top: 2%;
+    margin-left: 2.5%;
+}
+
+.night
+{
+    margin-left: 2.5%;
+    color: #AC9290;
+    font-family: Colibri;
+    font-size: 1.1em;
+}
+
+.price
+{
+    display: flex;
+    flex-direction: row;
+    margin-left: 2.5%;
+}
+
+.four
+{
+    color: #D40E14;
+    font-size: 2em;
+    margin-left: 1.5%;
+    font-family: Verdana;
+    margin-left: 2.5%;
+    font-weight: bold;
+}
+
+.ttc
+{
+    color: #D40E14;
+    font-size: 1em;
+    margin-left: 25%;
+}
+
+.i
+{
+    color: #D40E14;
+    font-size: 1.2em;
+    margin-left: 75%;
+    margin-top: 50%;
+    font-weight: bold;
+}
+
+.discount
+{
+    background-color: #D40E14;
+    color: white;
+    font-size: 1.2em;
+    padding: 20%;
+    font-weight: bold;
+    margin-left: 85%;
+    width: 100%;
+}
+
+.ancienPrice
+{
+    color: #AC9290;
+    font-family: Colibri;
+    font-size: 1.1em;
+    margin-left: 2.5%;
+}
+
+.nine 
+{
+    text-decoration: line-through;
+    font-weight: bold;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+.card
+{
+    height: 10%;
+    width: 10%;
+}
+
+.credit
+{
+    color: #AC9290;
+    font-size: 1.1em;
+}
+
+.payment
+{
+    margin-left: 2.5%;
+}
+
+.i2
+{
+    color: #AC9290;
+    font-size: 1em;
+    font-weight: bold;
+}
